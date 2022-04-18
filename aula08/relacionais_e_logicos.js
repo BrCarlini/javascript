@@ -18,4 +18,9 @@ Operadores Lógicos:
 ! Negação (not)
 && Conjunção (and)
 || disjunção (ou)
+
+
+Operador Ternario
+var x = 8
+var res = x % 2 == 0 ? 5: 9
 */
